@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Nicholas Murithi
 
 ## About Me
 - I'm currently learning Mechanical Engineering.
@@ -10,7 +10,7 @@
 - Python, HTML/CSS,Machine Learning.
 
 ## Current Projects
-- Am currebtly working on an ecommerse website
+- Am currently working on an ecommerse website.
 
 ## How to Reach Me
 - Email: nicholas960murithi@gmail.com
